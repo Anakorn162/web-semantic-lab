@@ -6,7 +6,7 @@
 - Form Validation
 - ARIA Labels
 
-## git command in lab
+## git command used in this lab
 -git config --global user.name "66160162"
 -git config --global user.email "66160162@go.buu.ac.th"
 -git clone https://github.com/66160011/web-semantic-lab
